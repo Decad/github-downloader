@@ -4,15 +4,15 @@ This shell script takes a github website path to any file/folder on github and u
 
 # Usage
 
-./github-downloader [website url to file/folder]
+`./github-downloader` [website url to file/folder]
 
 #Example
 
-./github-downloader https://github.com/twbs/bootstrap/tree/master/examples/carousel 
+`./github-downloader` https://github.com/twbs/bootstrap/tree/master/examples/carousel 
 
 This will export the carousel example folder from the twitter boostrap project.
 
-./github-downloader https://github.com/twbs/bootstrap/tree/master/examples/carousel/carousel.css 
+`./github-downloader` https://github.com/twbs/bootstrap/tree/master/examples/carousel/carousel.css 
 
 This will export just the carousel.css file from the twitter boostrap project.
 

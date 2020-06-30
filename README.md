@@ -6,13 +6,8 @@ This shell script takes a github website path to any file/folder on github and u
 
 `./github-downloader [website url to file/folder]`
 
-#Example
+# Example
 
-`./github-downloader https://github.com/twbs/bootstrap/tree/master/examples/carousel`
+`./github-downloader https://github.com/Decad/github-downloader/blob/master/README.md`
 
-This will export the carousel example folder from the twitter boostrap project.
-
-```./github-downloader https://github.com/twbs/bootstrap/tree/master/examples/carousel/carousel.css```
-
-This will export just the carousel.css file from the twitter boostrap project.
-
+This will download just the README.md file from this repo, you can also download whole directories

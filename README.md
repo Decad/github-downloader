@@ -1,3 +1,7 @@
+# ⚠⚠⚠⚠⚠  Deprecation Notice ⚠⚠⚠⚠⚠ 
+
+Note github is [removing SVN support](https://github.blog/2023-01-20-sunsetting-subversion-support/) on January 8, 2024. This project will no longer work after this date.
+
 # Github Downloader
 
 This shell script takes a github website path to any file/folder on github and using `svn export` downloads just that file/folder from github.
